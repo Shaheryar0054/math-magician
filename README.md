@@ -54,16 +54,22 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+### Install
+```
+npm install
+```
+### Usage
+```
+npm start
+```
+```
 
 ### Prerequisites
 
@@ -98,8 +104,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[new_feature_1]**
-- [] **[new_feature_2]**
+- [] **[Creating Calculator App Using React]**
+- [] **[Implementing better UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +137,5 @@ If you like this project please give me stars rating
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
