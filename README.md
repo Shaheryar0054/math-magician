@@ -54,6 +54,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://clever-crepe-68033d.netlify.app/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -62,14 +66,12 @@
 To get a local copy up and running, follow these steps.
 
 ### Install
-```
+
 npm install
-```
+
 ### Usage
-```
+
 npm start
-```
-```
 
 ### Prerequisites
 
@@ -104,8 +106,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[Creating Calculator App Using React]**
-- [] **[Implementing better UI]**
+- [] **[Implementing calculator Logic]**
+- [] **[Used API to fetch data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
