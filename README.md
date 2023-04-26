@@ -65,6 +65,14 @@
 
 To get a local copy up and running, follow these steps.
 
+### Install
+
+npm install
+
+### Usage
+
+npm start
+
 ### Prerequisites
 
 In order to run this project you need:
@@ -98,8 +106,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[new_feature_1]**
-- [] **[new_feature_2]**
+- [] **[Implementing calculator Logic]**
+- [] **[Used API to fetch data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
