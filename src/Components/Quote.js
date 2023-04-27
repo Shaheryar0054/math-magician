@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
+import './calculator.css';
 
 const Quote = ({ category }) => {
   const [quote, setQuote] = useState('');
@@ -32,7 +33,7 @@ const Quote = ({ category }) => {
   }, [category]);
 
   if (loading) {
-    return <p>Loading...</p>;
+    return <p className="loading">Loading...</p>;
   }
 
   if (error) {
@@ -40,7 +41,7 @@ const Quote = ({ category }) => {
   }
 
   return (
-    <div>
+    <div className="fetch-data">
       <p>
         &quot;
         {quote}
