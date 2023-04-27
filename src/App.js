@@ -1,10 +1,13 @@
+import React from 'react';
 import Calculator from './Components/Calculator';
+import Quote from './Components/Quote';
 
 function App() {
   return (
-
-    <Calculator />
-
+    <div>
+      <Calculator />
+      <Quote category="happiness" />
+    </div>
   );
 }
 
