@@ -41,3 +41,13 @@
   background-color: #ff9800;
   border: 1px solid #6c6c6c;
 }
+
+.fetch-data {
+  text-align: center;
+  font-size: 22px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 22px;
+}
