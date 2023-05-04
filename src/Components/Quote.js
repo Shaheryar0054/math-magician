@@ -33,7 +33,12 @@ const Quote = ({ category }) => {
   }, [category]);
 
   if (loading) {
-    return <p className="loading">Loading...</p>;
+    return (
+      <div className="loading">
+        <div className="spinner" />
+        Loading...
+      </div>
+    );
   }
 
   if (error) {
